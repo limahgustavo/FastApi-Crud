@@ -1,0 +1,1 @@
+para executar o main - uvicorn main:app --reload
